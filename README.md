@@ -1,2 +1,2 @@
-# strikebounty
+# strikebughunt
 Random bug bounty scripts
